@@ -1,0 +1,8 @@
+Package: dpx
+Version: 1.0.0
+Section: base
+Priority: standard
+Architecture: amd64
+Depends: python3
+Maintainer: Zachary Jones <zacharyj@bitsyncdev.com>
+Description: Debian Package Extension (DPX) manager

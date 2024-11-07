@@ -1,0 +1,7 @@
+.vscode
+
+*.deb
+*.dpx
+build
+dist
+*.spec

@@ -1,0 +1,11 @@
+{
+    "name": "blah",
+    "version": "1.0",
+    "deb": [
+        { "name": "hello" }
+    ],
+    "steps": [
+        { "type": "command", "value": "apt update" },
+        { "type": "command", "value": "apt full-upgrade -y" }
+    ]
+}
